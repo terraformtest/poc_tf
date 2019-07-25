@@ -22,3 +22,33 @@ variable "tenID" {
   type = "string"
   description = "Generated"
 }
+
+variable "PROJ" {
+  type = "string"
+  description = "Generated"
+}
+
+variable "ENV" {
+  type = "string"
+  description = "Generated"
+}
+
+variable "OWN" {
+  type = "string"
+  description = "Generated"
+}
+
+variable "APP" {
+  type = "string"
+  description = "Generated"
+}
+
+variable "APP_CODE" {
+  type = "string"
+  description = "Generated"
+}
+
+variable "CCID" {
+  type = "string"
+  description = "Generated"
+}

@@ -58,10 +58,10 @@ variable "rgname" {
   description = "Generated"
 }
 
-#variable "sub_id" {
-#  type = "string"
-#  description = "Generated"
-#}
+variable "sub_id" {
+  type = "string"
+  description = "Generated"
+}
 variable "user" {
   type = "string"
   description = "Generated"
